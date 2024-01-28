@@ -47,7 +47,7 @@ To deploy this project run
 
 ## Support
 
-For support, email rkpc020207@gmail.com or join our Slack channel.
+For support, email rkpc020207@gmail.com.
 
 
 ## Feedback
