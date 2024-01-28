@@ -14,45 +14,18 @@ This image gallery web page is a testament to the power and versatility of HTML 
 - [@Prayas Chaurasia (KPC)](https://github.com/PrayasChaurasiaKPC)
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  Launch this branch
-```
-
-
 ## Features
 
 - Interactive Page
 - Cross platform
 
 
-## Run Locally
+## Deployment
 
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
+To deploy this project run
 
 ```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
+  Launch this branch
 ```
 
 
