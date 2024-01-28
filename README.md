@@ -127,7 +127,7 @@ Contributions are what make the open source community such an amazing place to b
 
 **[Prayas Chaurasia (KPC)](https://github.com/PrayasChaurasiaKPC)** - *Comp Sci Student*
 
-## Bracnches
+## Branches
 
 * [Parallax Effect](https://github.com/PrayasChaurasiaKPC/Projects/tree/Parallax-Effect)
 * [Image Gallery](https://github.com/PrayasChaurasiaKPC/Projects/tree/Image-Gallery)
